@@ -1,4 +1,4 @@
-import "../styles/home.css";
+import "../styles/Homepage.css";
 import { motion } from "framer-motion";
 import { Briefcase, ClipboardCheckIcon, ClipboardList, Database, GlobeIcon, MessageSquare, MessagesSquareIcon, User } from "lucide-react";
 
