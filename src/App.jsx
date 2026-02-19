@@ -1,7 +1,7 @@
 import React from 'react'
 import { Routes, Route } from 'react-router-dom'
 import StudentDashboard from './pages/StudentDashboard'
-import ForgetPass from "./Pages/ForgetPass"
+import ForgetPass from "./pages/ForgetPass";
 import AdminProfile from './pages/AdminProfile'
 import MainLayout from './layouts/MainLayout'
 import AdminDashboard from './pages/AdminDashboard'
